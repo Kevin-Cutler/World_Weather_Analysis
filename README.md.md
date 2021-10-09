@@ -13,7 +13,7 @@ __________________________________
 ### Generate a set of 2,000 random latitudes and longitudes
 _____________________________________________________________________
 
-Capture Lat_Lng 2000
+<img width="493" alt="Lat_Lng_2000" src="https://user-images.githubusercontent.com/88467263/136670088-ad4c6f83-751c-42f5-90d7-3aa3b69e068a.PNG">
 
 
 ### Retrieve the Cities from the API call and Create a DataFrame 
@@ -30,8 +30,7 @@ ________________________________________________________________________
 
 
 
-
-City df 
+<img width="564" alt="City_DF" src="https://user-images.githubusercontent.com/88467263/136670090-244f310f-8e0a-42a7-8735-941c7047141b.PNG">
 
 
 ### Using the Google API Retrieve the Weather Description for Cities from Customer Preference
@@ -45,7 +44,7 @@ Once the customer has entered there preferred minimum and maximum temperatures w
 * Current weather description with the maximum temperature
 
 
-Picture- Cities_user_pref
+<img width="493" alt="Cities_User-temp_pref" src="https://user-images.githubusercontent.com/88467263/136670096-e4a1e04d-528e-40dd-b6b1-0b479846e9ac.PNG">
 
 Additionally the customer based on their prefrences is also offered a directions layer map of the four cities to guide them along their path and assist in their selection.
 
