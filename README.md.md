@@ -48,9 +48,12 @@ Once the customer has entered there preferred minimum and maximum temperatures w
 
 Additionally the customer based on their prefrences is also offered a directions layer map of the four cities to guide them along their path and assist in their selection.
 
+<img width="678" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/88467263/136670134-7d779996-d762-4012-ba39-42a623194bcb.PNG">
 
 
 The marker layer map with pop-up marker for each city allows the customers potential travel destinations, the customer is in control and able to choose between four cities for their customized travel itinerary. The Google Maps Directions API offers real time  travel route between the four cities as well as a marker layer map.
+
+<img width="829" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/88467263/136670144-9c72704a-b868-4c65-91ce-9836a14b9109.PNG">
 
 
 
